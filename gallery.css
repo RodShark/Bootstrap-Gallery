@@ -1,0 +1,16 @@
+body {
+	padding-top: 70px; /*To make sure the website's content doesn't go behind the navbar now that it's fixed at the top.*/
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
